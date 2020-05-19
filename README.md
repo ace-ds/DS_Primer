@@ -2,7 +2,8 @@
 
 **Notebook**
 
-`week_2_data_management` - this directory will have the notebooks discussed in the sessions 
+`week_1_data_management` - this directory will have the notebooks discussed in the data management session
+`week_2_data_visualization` - this directory will have the notebook discussed in the data visualization session
 
 **How to launch Notebook**
 
